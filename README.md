@@ -86,7 +86,8 @@ Pandas: Biblioteca para manipulação e análise de dados.
 ## Considerações Finais
 O projeto "CNPEM Data Extractor" oferece uma solução automatizada para a coleta de dados do site do CNPEM. Com uma interface fácil de usar e configuração simples, ele é ideal para pesquisadores que precisam de dados atualizados de forma contínua.
 
-## Contato
-LinkedIn: Eduardo Coqueiro
-Site: Eduardo Coqueiro
-Kaggle: Eduardo Coqueiro
+## 📞 Contato
+- **LinkedIn:** [Eduardo Coqueiro](https://www.linkedin.com/in/eduardocoqueiro/)
+- **Site:** [Eduardo Coqueiro](https://dataguy.my.canva.site/eduardo-coqueiro)
+- **Kaggle:** [Eduardo Coqueiro](https://www.kaggle.com/eduardocoqueiro)
+
